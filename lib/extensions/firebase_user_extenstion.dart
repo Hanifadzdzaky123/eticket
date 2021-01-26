@@ -10,5 +10,5 @@ extension FirebaseUserExtenstion on FirebaseUser {
           name: name,
           balance: balance,
           selectedGenres: selectedGenres,
-          selectedLanguage: selectedLanguage);
+          selectedLangage: selectedLanguage);
 }

@@ -10,7 +10,7 @@ class UserServices {
       'name': user.name,
       'balance': user.balance,
       'selectedGenres': user.selectedGenres,
-      'selectedLanguage': user.selectedLanguage,
+      'selectedLanguage': user.selectedLangage,
       'profilePicture': user.profilePicture,
     });
   }

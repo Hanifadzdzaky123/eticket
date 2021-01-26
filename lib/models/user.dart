@@ -6,14 +6,14 @@ class User extends Equatable {
   final String name;
   final String profilePicture;
   final List<String> selectedGenres;
-  final String selectedLanguage;
+  final String selectedLangage;
   final int balance;
 
   User(this.id, this.email,
       {this.name,
       this.profilePicture,
       this.selectedGenres,
-      this.selectedLanguage,
+      this.selectedLangage,
       this.balance});
 
   @override
