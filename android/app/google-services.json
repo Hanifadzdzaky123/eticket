@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "471282366460",
+    "project_id": "eticket-smkmq-7423c",
+    "storage_bucket": "eticket-smkmq-7423c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471282366460:android:aec2dc0dd80bc11ae8a479",
+        "android_client_info": {
+          "package_name": "com.example.eticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471282366460-ooo819vevkp6hi03cgrp9o6ee554csjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkW7MR70GB2UTCkdfox9-wlSYIj03pYj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471282366460-ooo819vevkp6hi03cgrp9o6ee554csjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471282366460:android:b682db00b8df1df2e8a479",
+        "android_client_info": {
+          "package_name": "com.example.eticket2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471282366460-ooo819vevkp6hi03cgrp9o6ee554csjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkW7MR70GB2UTCkdfox9-wlSYIj03pYj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471282366460-ooo819vevkp6hi03cgrp9o6ee554csjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
